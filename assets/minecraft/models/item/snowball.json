@@ -1,0 +1,10 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/snowball"
+    },
+
+    "overrides": [
+        { "predicate": {"custom_model_data": 827183}, "model": "gods:10_artemis/artemis_827183_knife"}
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+     "layer0": "item/carrot_on_a_stick"
+    },
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 123456}, "model": "gods:1_zeus/zeus_123456_bolt"},
+     { "predicate": {"custom_model_data": 123457}, "model": "gods:3_hades/hades_123457_staff"},
+     { "predicate": {"custom_model_data": 123458}, "model": "gods:3_hades/hades_123458_warp"},
+     { "predicate": {"custom_model_data": 123459}, "model": "gods:10_artemis/artemis_123459_staff"},
+     { "predicate": {"custom_model_data": 123460}, "model": "gods:12_dionysus/dionysus_123460_book"},
+     { "predicate": {"custom_model_data": 123461}, "model": "tools:item/salmon_cannon"},
+     { "predicate": {"custom_model_data": 123462}, "model": "gods:12_dionysus/dionysus_123462_staff"},
+     { "predicate": {"custom_model_data": 123463}, "model": "gods:7_ares/ares_123463_totem"},
+     { "predicate": {"custom_model_data": 123464}, "model": "gods:4_apollo/apollo_123464_lyre"},
+     { "predicate": {"custom_model_data": 123465}, "model": "gods:6_hephaestus/hephaestus_123465_hammer"},
+     { "predicate": {"custom_model_data": 123466}, "model": "gods:11_aphrodite/aphrodite_123466_staff"},
+     { "predicate": {"custom_model_data": 123467}, "model": "gods:1_zeus/zeus_123467_wand"},
+     { "predicate": {"custom_model_data": 123468}, "model": "tools:item/greek_man"},
+     { "predicate": {"custom_model_data": 123469}, "model": "gods:9_athena/athena_123469_staff"},
+     { "predicate": {"custom_model_data": 123470}, "model": "gods:8_demeter/demeter_123470_staff"},
+     {
+         "predicate": {
+             "custom_model_data":999999
+            },
+            "model": "unused:item/selene/selene_staff"
+     }
+   
+    ]
+   
+    
+   }

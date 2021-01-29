@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui_elements/note_icarus_wings_image_x128.png",
+            "ascent": 0,
+            "height": 96,
+            "chars": ["\uEB00"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui_elements/valid_floor_tiles.png",
+            "ascent": 0,
+            "height": 77,
+            "chars": ["\uEA00"]
+        }
+    ]
+}

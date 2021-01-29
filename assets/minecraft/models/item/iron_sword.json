@@ -1,0 +1,14 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+     "layer0": "item/iron_sword"
+    },
+   
+    "overrides": [
+     { "predicate": {"custom_model_data": 123456}, "model": "tools:item/bronze_sword"},
+     { "predicate": {"custom_model_data": 123457}, "model": "tools:item/stygian_sword"}
+   
+    ]
+   
+    
+   }

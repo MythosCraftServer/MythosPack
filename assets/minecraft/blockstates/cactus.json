@@ -1,0 +1,23 @@
+{
+  "variants": {
+    "":[ 
+    {"model": "block/cactus/cactus_001"}, 
+    {"model": "block/cactus/cactus_002"}, 
+    {"model": "block/cactus/cactus_003"}, 
+    {"model": "block/cactus/cactus_004"}, 
+    {"model": "block/cactus/cactus_005"}, 
+    {"model": "block/cactus/cactus_006"}, 
+    {"model": "block/cactus/cactus_007"}, 
+    {"model": "block/cactus/cactus_008"}, 
+    {"model": "block/cactus/cactus_009"}, 
+    {"model": "block/cactus/cactus_010"}, 
+    {"model": "block/cactus/cactus_011"}, 
+    {"model": "block/cactus/cactus_012"}, 
+    {"model": "block/cactus/cactus_013"}, 
+    {"model": "block/cactus/cactus_014"}, 
+    {"model": "block/cactus/cactus_015"}, 
+    {"model": "block/cactus/cactus_016"}, 
+    {"model": "block/cactus/cactus_017"}     
+  ]
+  }
+}
