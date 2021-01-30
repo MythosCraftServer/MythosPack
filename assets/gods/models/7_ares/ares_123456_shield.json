@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "entity/shield/ares_shield",
-		"particle": "entity/shield/ares_shield"
+		"0": "gods:ares_shield",
+		"particle": "gods:ares_shield"
 	},
 	"elements": [
 		{
@@ -117,7 +117,7 @@
 				"north": {"uv": [0, 0, 6, 1], "rotation": 90, "texture": "#0"},
 				"east": {"uv": [0, 0, 6, 2], "rotation": 270, "texture": "#0"},
 				"south": {"uv": [0, 0, 6, 1], "rotation": 90, "texture": "#0"},
-				"west": {"uv": [0, 0, 6, 2], "rotation": 90, "texture": "#0"},
+				"west": {"uv": [0, 10, 6, 12], "rotation": 90, "texture": "#0"},
 				"up": {"uv": [0, 0, 1, 2], "rotation": 180, "texture": "#0"},
 				"down": {"uv": [0, 0, 1, 2], "texture": "#0"}
 			}
@@ -146,12 +146,12 @@
 			"translation": [1.5, -1.75, 1.25]
 		},
 		"firstperson_righthand": {
-			"rotation": [-41.5, 30.75, 48.75],
-			"translation": [1.5, -2, 1.25]
+			"rotation": [-70.5, 59.75, 73.25],
+			"translation": [1.5, -4, 1.25]
 		},
 		"firstperson_lefthand": {
-			"rotation": [-41.5, 30.75, 48.75],
-			"translation": [1.5, -2, 1.25]
+			"rotation": [-70.5, 59.75, 73.25],
+			"translation": [1.5, -4, 1.25]
 		},
 		"ground": {
 			"translation": [0, 2, 0],
