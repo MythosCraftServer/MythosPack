@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "dungeons:/general_loot/gods/textures/heracles_club"
+    }
+}
