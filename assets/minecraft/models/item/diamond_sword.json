@@ -5,18 +5,10 @@
     },
    
     "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 1001
-            },
-            "model": "dungeons:general_loot/gods/models/sword_of_justice"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 1002
-            },
-            "model": "dungeons:general_loot/gods/models/thrysus"
-        }
+        { "predicate": {"custom_model_data": 1}, "model": "dungeons:general_loot/gods/models/sword_of_justice" },
+        
+        { "predicate": {"custom_model_data": 2}, "model": "dungeons:general_loot/gods/models/thrysus" }
+
     ]
    
     

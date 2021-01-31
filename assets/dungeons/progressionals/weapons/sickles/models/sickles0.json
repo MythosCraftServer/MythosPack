@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "dungeons:progressionals/weapons/sickles/sickles0"
+    }
+}

@@ -1,0 +1,30 @@
+achilles_spear:
+
+artemis_bow<bow>:
+
+cronos_scythe<netherite_hoe>: inflicts "bleeding", which is just an effect which slowly inflicts small amounts harming for 15 seconds
+
+eros_bow<bow>:
+
+eurytus_bow<bow>:
+
+heracles_bow<bow>:
+
+heracles_club<iron_axe>:
+
+hermes_caduceus<stone_sword>: inflicts slowness 255 to enemy hit for 25 seconds
+
+pluto_bident:
+
+ring_of_gyges<carrot_on_a_stick>:
+
+rod_of_asclepius<iron_sword>: the snake head at the end of the rod inflicts poison II upon the enemy for 12 seconds
+
+sword_of_justice<diamond_sword>:
+
+thrysus<diamond_sword>: when hitting an enemy honey bottles, honey blocks and honeycomb items burst out of the enemy hit, while also inflicting slowness IV and weakness III for 12 seconds
+
+zeus_labrys<netherite_axe>: strikes "fear" into enemies when struck. Inflicting Weakness III and Blindness for 15 seconds
+
+
+					YOU MAY ONLY CARRY 1 GOD WEAPON ON YOUR PERSON AT ONE TIME
