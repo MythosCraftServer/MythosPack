@@ -2,14 +2,5 @@
     "parent": "item/handheld",
     "textures": {
      "layer0": "item/diamond_sword"
-    },
-   
-    "overrides": [
-        { "predicate": {"custom_model_data": 1}, "model": "dungeons:general_loot/gods/models/sword_of_justice" },
-        
-        { "predicate": {"custom_model_data": 2}, "model": "dungeons:general_loot/gods/models/thrysus" }
-
-    ]
-   
-    
+    }
    }
