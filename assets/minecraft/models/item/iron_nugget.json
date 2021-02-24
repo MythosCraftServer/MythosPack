@@ -1,0 +1,20 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/iron_nugget"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 999998
+            },
+            "model": "item/enchantment_rune"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 999999
+            },
+            "model": "item/inventory"
+        }
+    ]
+}
