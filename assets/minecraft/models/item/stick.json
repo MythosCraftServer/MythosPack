@@ -15,7 +15,7 @@
         {"predicate": {"custom_model_data": 411}, "model": "quests:decorations/blocks/cobweb01"},
         {"predicate": {"custom_model_data": 412}, "model": "quests:decorations/blocks/cobweb02"},
         {"predicate": {"custom_model_data": 499}, "model": "quests:decorations/blocks/workbench"},
-        {"predicate": {"custom_model_data": 501}, "model": "quests:decorations/statues/atlas"}
+        {"predicate": {"custom_model_data": 501}, "model": "quests:decorations/statues/atlas"},
 
 
 
