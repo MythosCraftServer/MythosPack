@@ -25,7 +25,7 @@
         {"predicate": {
             "custom_model_data": 1
         },
-        "model": "entity/villager/blacksmith/villager_blacksmith_mohawk"
+        "model": "minecraft:entity/villager/blacksmith/villager_blacksmith_mohawk"
     }
     ]
 }
