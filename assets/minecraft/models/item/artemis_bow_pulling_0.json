@@ -1,6 +1,6 @@
 {
     "parent": "item/bow",
     "textures": {
-        "layer0": "item/selene/bow_pulling_0"
+        "layer0": "item/artemis_bow_pulling_0"
     }
 }

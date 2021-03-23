@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "minecraft:block/cube_all",
+	"textures": {
+		"0": "block/stygian_rubble",
+		"particle": "block/stygian_rubble"
+	}
+}
