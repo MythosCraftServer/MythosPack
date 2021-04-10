@@ -1,0 +1,7 @@
+{
+	"credit": "Made by Volved! - All rights reserved to MythosCraft and their staff team",
+	"parent": "item/generated",
+	"textures" : {
+		"layer0": "item/totem_of_berserkery"
+	}
+}

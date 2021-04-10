@@ -5,7 +5,7 @@
     },
    
     "overrides": [
-     { "predicate": {"custom_model_data": 123467}, "model": "tools:item/celestial_axe"}
+     { "predicate": {"custom_model_data": 1}, "model": "item/bronze_axe"}
    
     ]
    

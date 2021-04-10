@@ -50,9 +50,16 @@
         },
         {
             "predicate": {
-                "custom_model_data": 123456
+                "custom_model_data": 91203
                 }, 
-                "model": "gods:7_ares/ares_123456_shield"
+                "model": "mythos/ares_shield"
+        },
+        {
+            "predicate": {
+                "blocking": 1,
+                "custom_model_data": 91203
+                }, 
+                "model": "mythos/ares_shield_blocking"
         }
     ]
 }

@@ -1,0 +1,6 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+     "layer0": "item/stygian_iron_sword"
+    }
+   }

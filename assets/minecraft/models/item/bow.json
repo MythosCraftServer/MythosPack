@@ -28,6 +28,12 @@
     "overrides": [
         {
             "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "item/dungeons_bow"
+        },
+        {
+            "predicate": {
                 "pulling": 1
             },
             "model": "item/bow_pulling_0"

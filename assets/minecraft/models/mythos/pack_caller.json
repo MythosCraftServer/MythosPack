@@ -1,0 +1,7 @@
+{
+	"credit": "Made by Volved! - All rights reserved to MythosCraft and the staff team",
+	"parent": "item/handheld",
+	"textures": {
+		"layer0": "item/pack_caller"
+	}
+}

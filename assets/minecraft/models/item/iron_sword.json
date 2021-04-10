@@ -5,8 +5,8 @@
     },
    
     "overrides": [
-     { "predicate": {"custom_model_data": 123456}, "model": "tools:item/bronze_sword"},
-     { "predicate": {"custom_model_data": 123457}, "model": "tools:item/stygian_sword"}
+     { "predicate": {"custom_model_data": 1}, "model": "item/bronze_sword"},
+     { "predicate": {"custom_model_data": 2}, "model": "item/stygian_sword"}
    
     ]
    

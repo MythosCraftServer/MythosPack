@@ -1,6 +1,0 @@
-{
-    "parent": "item/inventory_parent",
-    "textures": {
-        "layer0": "item/inventory"
-    }
-}
