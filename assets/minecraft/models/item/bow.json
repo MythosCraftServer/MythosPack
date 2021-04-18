@@ -48,6 +48,35 @@
         },
         {
             "predicate": {
+                "custom_model_data": 90402
+            },
+            "model": "mythos/apollo_bow"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "custom_model_data": 90402
+            },
+            "model": "mythos/apollo_bow_pulling_0"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.65,
+                "custom_model_data": 90402
+            },
+            "model": "mythos/apollo_bow_pulling_1"
+        },
+        {
+            "predicate": {
+                "pulling": 1,
+                "pull": 0.9,
+                "custom_model_data": 90402
+            },
+            "model": "mythos/apollo_bow_pulling_2"
+        },
+        {
+            "predicate": {
                 "custom_model_data": 90803
             },
             "model": "mythos/artemis_bow"
