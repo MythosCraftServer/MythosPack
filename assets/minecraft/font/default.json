@@ -21,6 +21,41 @@
             "height": 176,
             "chars": ["\uEC01"]
         },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/unusable_forgery.png",
+            "ascent": 13,
+            "height": 176,
+            "chars": ["\uEC02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/forgery.png",
+            "ascent": 13,
+            "height": 176,
+            "chars": ["\uEC03"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/lore/forgery_tut_01.png",
+            "ascent": 8,
+            "height": 64,
+            "chars": ["\uEF01"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/lore/forgery_tut_02.png",
+            "ascent": 8,
+            "height": 64,
+            "chars": ["\uEF02"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/lore/forgery_tut_03.png",
+            "ascent": 8,
+            "height": 64,
+            "chars": ["\uEF03"]
+        },
 
 
 

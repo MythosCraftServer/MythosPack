@@ -1,0 +1,12 @@
+{
+	"credit": "Made by Volved! - All rights reserved to MythosCraft and their staff team",
+	"parent": "block/crafting_table",
+	"display": {
+
+		"fixed": {
+			"rotation": [-90, 90, 90],
+			"translation": [0, -32, -16],
+			"scale": [2.01, 2.01, 2.01]
+		}
+	}
+}

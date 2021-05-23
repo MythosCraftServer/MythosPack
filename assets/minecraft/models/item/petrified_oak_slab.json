@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:block/oak_slab",
+
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "block/bronze_ore"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "block/bronze_block"
+    }
+  ]
+}

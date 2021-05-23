@@ -4,6 +4,8 @@
     "layer0": "minecraft:item/stick"
   },
   "overrides": [
-    {"predicate": {"custom_model_data": 91099}, "model": "mythos/heph_anvil_block"}
+    {"predicate": {"custom_model_data": 1}, "model": "mythos/custom_crafter001"},
+    {"predicate": {"custom_model_data": 91099}, "model": "mythos/heph_anvil_block"},
+    {"predicate": {"custom_model_data": 999999}, "model": "item/gui_filler"}
   ]
 }

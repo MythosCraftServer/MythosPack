@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/obsidian",
-		"1": "block/purple_concrete_powder",
+		"1": "block/nether_portal",
 		"particle": "block/obsidian"
 	},
 	"elements": [

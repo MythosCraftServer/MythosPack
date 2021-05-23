@@ -1,13 +1,11 @@
 {
-    "parent": "item/handheld",
-    "textures": {
-     "layer0": "item/netherite_pickaxe"
-    },
-   
-    "overrides": [
-     { "predicate": {"custom_model_data": 1}, "model": "item/bronze_pickaxe"}
-   
-    ]
-   
-    
-   }
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_pickaxe"
+  },
+
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/bronze_pickaxe" },
+    { "predicate": { "custom_model_data": 2 }, "model": "mythos/bronze_hammer" }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/repeating_command_block",
+
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/raw_iron" }
+  ]
+}
